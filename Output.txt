@@ -1,0 +1,53 @@
+=================================================================
+******Final ALlocation output********** 24 
+=================================================================
+location1_time1
+{ 1:0.000000,   }
+location1_time2
+{ 2:0.000000,   }
+location1_time3
+{ 3:0.000000,   }
+location2_time1
+{ 4:0.000000,  5:0.200000,   }
+location2_time2
+{ 6:0.000000,  7:0.000000,   }
+location2_time3
+{ 8:0.000000,  9:0.000000,   }
+location3_time1
+{ 10:0.000000,  11:0.150000,  12:0.025000,   }
+location3_time2
+{  }
+location3_time3
+{  }
+location4_time1
+{  }
+location4_time2
+{  }
+location4_time3
+{  }
+location5_time1
+{  }
+location5_time2
+{  }
+location5_time3
+{  }
+location6_time1
+{  }
+location6_time2
+{  }
+location6_time3
+{  }
+location7_time1
+{  }
+location7_time2
+{  }
+location7_time3
+{  }
+location8_time1
+{  }
+location8_time2
+{  }
+location8_time3
+{  }
+
+{  }
